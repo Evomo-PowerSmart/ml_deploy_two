@@ -1,0 +1,5 @@
+Flask
+Flask-RESTful
+joblib
+numpy
+scikit-learn==1.5.0
